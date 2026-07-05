@@ -42,6 +42,3 @@ Add the following configuration to your claude_desktop_config.json file:
 <img src="resources\image.jpg" alt="Claude desktop prompt with fields" style="width:auto;height:300px;padding-left:30px">
 
 Alternatively, you can draft a custom prompt and let the agent take over.
-
-
-All rights reserver @Codebasics Inc and LearnerX India Private Ltd.
